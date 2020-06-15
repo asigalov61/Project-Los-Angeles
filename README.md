@@ -3,7 +3,7 @@ Here is the list of all current practical and usable applications/examples/tutor
 
 A little bit of foreplay with the best algorithmic music generator I have seen to date...
 
-https://muzoti.com/
+https://www.muzoti.com/
 
 And now AI (make sure to check out GitHub for creator's repos - most have one)
 
