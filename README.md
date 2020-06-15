@@ -1,4 +1,4 @@
-# DEMOcraticAI
+# DEMOcratic Music AI
 Here is the list of all current practical and usable applications/examples/tutorials for Music AI
 
 A little bit of foreplay with the best algorithmic music generator I have seen to date...
