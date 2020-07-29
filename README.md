@@ -26,10 +26,10 @@ Build your own Piano AI with my Colab and XLNet: https://github.com/asigalov61/
 
 ==TOOLS and other important untilities===
 
-Free and totally awesome SF2 banks: sites.google.com/site/soundfonts4u/
+Free and totally awesome SF2 banks: https://sites.google.com/site/soundfonts4u/
 
-SF2 Driver OmniMIDI to render tracks: github.com/KeppySoftware/OmniMIDI/releases
+SF2 Driver OmniMIDI to render tracks: https://github.com/KeppySoftware/OmniMIDI/releases
 
-Always awesome and reliable Audacity DAW: www.audacityteam.org/
+Always awesome and reliable Audacity DAW: https://www.audacityteam.org/
 
-Always awesome and the only MIDIEditor: www.midieditor.org/
+Always awesome and the only MIDIEditor: https://www.midieditor.org/
