@@ -20,3 +20,16 @@ Colabs
 https://magenta.tensorflow.org/demos/colab/
 
 Build your own Piano AI with my Colab and XLNet: https://github.com/asigalov61/SuperPiano 
+
+
+
+
+==TOOLS and other important untilities===
+
+Free and totally awesome SF2 banks: sites.google.com/site/soundfonts4u/
+
+SF2 Driver OmniMIDI to render tracks: github.com/KeppySoftware/OmniMIDI/releases
+
+Always awesome and reliable Audacity DAW: www.audacityteam.org/
+
+Always awesome and the only MIDIEditor: www.midieditor.org/
