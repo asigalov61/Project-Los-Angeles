@@ -15,6 +15,10 @@ MuseNet also fixed Custom MIDI option: https://openai.com/blog/musenet/
 
 https://www.stevenwaterman.uk/musetree/ 
 
+Demos
+
+https://magenta.tensorflow.org/demos/web/
+
 Colabs
 
 https://magenta.tensorflow.org/demos/colab/
@@ -25,6 +29,9 @@ Build your own Piano AI with my Colab and XLNet: https://github.com/asigalov61/
 
 
 ==TOOLS and other important untilities===
+
+
+
 
 Free and totally awesome SF2 banks: https://sites.google.com/site/soundfonts4u/
 
