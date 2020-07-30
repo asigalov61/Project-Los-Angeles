@@ -1,4 +1,5 @@
-# DEMOcratic Music AI
+# Project Los Angeles
+
 Here is the list of all current practical and usable applications/examples/tutorials for Music AI
 
 A little bit of foreplay with the best algorithmic music generator I have seen to date...
@@ -31,7 +32,7 @@ Build your own Piano AI with my Colab and XLNet: https://github.com/asigalov61/
 ==TOOLS and other important untilities===
 
 
-
+WEB MIDI stuff http://gleitz.github.io/midi-js-soundfonts/
 
 Free and totally awesome SF2 banks: https://sites.google.com/site/soundfonts4u/
 
