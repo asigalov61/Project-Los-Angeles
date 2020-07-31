@@ -1,4 +1,8 @@
-# Project Los Angeles
+# Project Los Angeles (RAI)
+
+Helping build fair, safe, and ethical General Artificial Intelligence :)
+
+=====================================================================
 
 Here is the list of all current practical and usable applications/examples/tutorials for Music AI
 
