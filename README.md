@@ -1,6 +1,22 @@
-# Project Los Angeles (RAI)
+# Project Los Angeles (RGAI)
 
 Helping build fair, safe, and ethical General Artificial Intelligence and helping to introduce humanity to (G)AI through the magic of Music :)
+
+=====================================================================
+
+Main Objectives
+
+I) Help to build RGAI (Right General AI) that will be fair, safe, and ethical couterpart of humanity.
+II) Help to introduce humanity to (RG)AI and its power/abilities/benefits.
+III) Prevent possible panic/scare and help to educate general public to use (RG)AI safely, properly, and responsibly
+IV) ...
+=====================================================================
+
+PLA (RGAI) Aprroach
+
+I) Use magic and gentle touch of Music AI to reach out to the general public to introduce (RG)AI.
+II) Create all necessary resources for musicians and non-musicians alike to try/use (RG)AI in a safe, fun, and responsible way :)
+III) ...
 
 =====================================================================
 
