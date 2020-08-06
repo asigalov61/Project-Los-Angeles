@@ -1,6 +1,6 @@
 # Project Los Angeles (RAI)
 
-Helping build fair, safe, and ethical General Artificial Intelligence and introducing humanity to (G)AI through the magic of Music :)
+Helping build fair, safe, and ethical General Artificial Intelligence and helping to introduce humanity to (G)AI through the magic of Music :)
 
 =====================================================================
 
