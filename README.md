@@ -13,6 +13,7 @@ II) Help to introduce humanity to (RG)AI and its power/abilities/benefits.
 III) Prevent possible panic/scare and help to educate general public to use (RG)AI safely, properly, and responsibly
 
 IV) Address and help to resolve all issues raised in NSCAI reports/publications (https://www.nscai.gov/reports)
+
 =====================================================================
 
 PLA (RGAI) Aprroach
