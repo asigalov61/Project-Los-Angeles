@@ -16,7 +16,7 @@ IV) Address and help to resolve all issues raised in NSCAI reports/publications 
 
 =====================================================================
 
-PLA (RGAI) Aprroach
+PLA (RGAI) Approach
 
 I) Use magic and gentle touch of Music AI to reach out to the general public to introduce (RG)AI.
 
